@@ -1,1 +1,1 @@
-# test
+# Accordion VanillaJS App
